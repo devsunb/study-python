@@ -1,0 +1,14 @@
+{
+    "remotePath": "tensorflow",
+    "host": "aws.infre.kr",
+    "username": "ubuntu",
+    "port": 22,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "privateKeyPath": "/Users/infreljs/Documents/Authorize/awskey.pem",
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ]
+}
